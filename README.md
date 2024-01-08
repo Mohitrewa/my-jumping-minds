@@ -1,7 +1,5 @@
 # Elevator System  #
 
-!(https://github.com/SolomonNewCentury/Elevator)
-
 A elevator system which goes up, down and stops built with Django(Django Rest Framework including Viewsets, Serializers and etc.)
 
 ## Architecture ##
